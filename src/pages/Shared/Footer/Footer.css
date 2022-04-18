@@ -1,0 +1,18 @@
+.footer{
+  color: white;
+  font-weight: 200;
+}
+.footer-aria {
+  background:#008B8B;
+}
+.copyright{
+  color: white;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.hover-style:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}

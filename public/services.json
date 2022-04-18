@@ -1,0 +1,48 @@
+[
+
+ 
+
+
+  {
+    "id": 1,
+    "name": "Heartache",
+    "price": 50.66,
+    "details": "When we feel heartache, for example, we are experiencing a blend of emotional stress and the stress-induced sensations in our chest",
+    "img": " https://i.ibb.co/C8sHnRS/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Stomach Aches",
+    "price":90.66,
+    "details": "It’s natural to have gas in your digestive tract, and to pass gas regularly. In fact, everyone passes gas at least 12 times a day, which is a combination of oxygen, hydrogen, nitrogen, carbon dioxide, and methane. ",
+    "img": "https://i.ibb.co/yQrvFGQ/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Nausea and Vomiting",
+    "price": 46.69,
+    "details": "Gastroenteritis, a.k.a. “stomach flu,“ is an inflammation of the intestines that can be caused by viruses, parasites, bacteria, food allergies,",
+    "img": "https://i.ibb.co/QH84rQR/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Daily Skin Care",
+    "price":60.95,
+    "details": "For men when shaving, soften your beard area with a warm washcloth and then cover the area with shaving cream. Use a sharp blade and pass the razor over your skin only once in the direction of hair growth",
+    "img": "https://i.ibb.co/wQ6gT2Z/sdd.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Acne",
+    "price": 16.39,
+    "details": "Acne is the general term for pimples, blackheads, whiteheads, and cysts. About 85% of people between 12 and 25 experience acne, though to varying degrees. Resulting from clogged pores, acne typically appears on the face, neck, chest, back, shoulders, and scalp. A pore gets clogged when the sebaceous gland.",
+    "img": "https://i.ibb.co/p02CwRc/images.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Athlete's Foot",
+    "price": 89.25,
+    "details": "Like most fungi, tinea pedis thrives in warm, moist, dark places, like inside sweaty shoes and on shower floors. Thus, in order to avoid athlete’s foot, you should wear shoes in communal showers, bathrooms, and on pool decks. Keep your feet clean and drys",
+    "img": "https://i.ibb.co/VTVjQz8/v2.jpg"
+  }
+]

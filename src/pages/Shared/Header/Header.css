@@ -1,0 +1,23 @@
+
+.btn-style a{
+  text-decoration: none;
+  margin-left: 20px;
+  color: black;
+}
+.refistation{
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.color{
+  color: #006266;
+}
+.btn-style button{
+  border: none;
+  border-radius: 10px ;
+  padding: 5px 8px;
+  color: #FFFFFF;
+  background-color: #006266;
+}
+.navbar{
+  font-weight: 600;
+}
